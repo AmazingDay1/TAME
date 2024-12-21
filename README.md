@@ -34,11 +34,11 @@ If you find Vim is useful in your research or applications, please consider givi
 @inproceedings{xiao2024tametemporalaudiobasedmamba,
       title={TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification}, 
       author={Zhenyuan Xiao and Huanran Hu and Guili Xu and Junwei He},
-      year={2024},
+      year={2025/5},
       eprint={2412.13037},
       archivePrefix={arXiv},
       primaryClass={cs.SD},
       url={https://arxiv.org/abs/2412.13037}, 
-      booktitle={Fifty International Conference on Acoustics, Speech and Signal Processing}
+      booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing}
 }
 ```
