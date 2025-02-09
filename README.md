@@ -29,12 +29,12 @@ The dataset comes from the [CVPR UG2+ challenge](https://ug2-uav-tracking.github
 This project is based on Mamba ([paper](https://arxiv.org/abs/2312.00752), [code](https://github.com/state-spaces/mamba)), VMamba ([paper](https://arxiv.org/abs/2401.10166), [code](https://github.com/MzeroMiko/VMamba)). Thanks for their wonderful works.
 
 # Citation
-If you find Vim is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+If you find TAME is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 ```bash
 @inproceedings{xiao2024tametemporalaudiobasedmamba,
       title={TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification}, 
       author={Zhenyuan Xiao and Huanran Hu and Guili Xu and Junwei He},
-      year={2025/5},
+      year={2025},
       eprint={2412.13037},
       archivePrefix={arXiv},
       primaryClass={cs.SD},
