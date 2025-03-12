@@ -31,14 +31,12 @@ This project is based on Mamba ([paper](https://arxiv.org/abs/2312.00752), [code
 # Citation
 If you find TAME is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 ```bash
-@inproceedings{xiao2024tametemporalaudiobasedmamba,
-      title={TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification}, 
-      author={Zhenyuan Xiao and Huanran Hu and Guili Xu and Junwei He},
-      year={2025},
-      eprint={2412.13037},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD},
-      url={https://arxiv.org/abs/2412.13037}, 
-      booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing}
+@inproceedings{xiao2025tame,
+  title={Tame: Temporal audio-based mamba for enhanced drone trajectory estimation and classification},
+  author={Xiao, Zhenyuan and Hu, Huanran and Xu, Guili and He, Junwei},
+  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2025},
+  organization={IEEE}
 }
 ```
